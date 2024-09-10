@@ -2,7 +2,7 @@
 
 ---
 
-# 👋 **Hello! I'm [Your Name]**
+# 👋 **Hello! I'm Mohcine**
 
 *A C++ Enthusiast and Problem Solver*  
 
