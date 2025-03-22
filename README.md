@@ -55,6 +55,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohcine-otmane&bg_color=0d1117&color=00e7ff&line=00b4d8&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
+<div align="center">
+  <img src="https://github.com/mohcine-otmane/mohcine-otmane/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Connect With Me
 
 <div align="center">
