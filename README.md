@@ -2,6 +2,14 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Systems+Programmer;Problem+Solver" alt="Typing SVG" />
+  
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=mohcine-otmane&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
+
+<!-- Animated Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20GitHub&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Systems%20Programmer%20|%20Problem%20Solver&descAlignY=55&descAlign=50" alt="Header Banner" />
 </div>
 
 ## 🎓 About Me
@@ -70,25 +78,24 @@ I'm a versatile developer with expertise in both low-level systems programming a
   </a>
 </div>
 
----
-
+<!-- Animated Quote -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Readme Quotes" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&animation=fadeIn" alt="Readme Quotes" />
 </div>
 
+<!-- Personal Quote -->
 <div align="center">
-  <i>Precision in code, excellence in performance.</i>
-  <br>
-  <i>DICTVM MEVM PACTVM</i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Precision+in+code%2C+excellence+in+performance.;DICTVM+MEVM+PACTVM" alt="Personal Quote" />
 </div>
 
+<!-- Social Stats -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohcine-otmane&color=blueviolet&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/mohcine-otmane?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/mohcine-otmane?label=Stars&style=social" alt="GitHub Stars" />
 </div>
 
-<!-- Add a cool footer -->
+<!-- Animated Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=50&animation=fadeIn&fontAlignY=80&desc=Let's%20build%20something%20amazing%20together!&descAlignY=90&descAlign=50" alt="Footer" />
 </div>
 
