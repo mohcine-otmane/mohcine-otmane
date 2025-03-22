@@ -1,17 +1,11 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi there, I'm Mohcine!
 
 <div align="center">
-  <!-- Animated Introduction -->
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&pause=1000&color=00E7FF&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Systems+Programmer;Problem+Solver;Graphics+Engineer" alt="Typing SVG" />
-  
-  <!-- Profile Trophy -->
   <img src="https://github-profile-trophy.vercel.app/?username=mohcine-otmane&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-
-  <!-- Profile Views Counter with neon effect -->
   <img src="https://komarev.com/ghpvc/?username=mohcine-otmane&color=00e7ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
-<!-- Animated Banner with cyberpunk theme -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E7FF,100:9D00FF&height=200&section=header&text=Welcome%20to%20my%20Universe&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Where%20Code%20Meets%20Innovation&descAlignY=55&descAlign=50&fontColor=fff" alt="Header Banner" />
 </div>
@@ -19,10 +13,10 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00E7FF&center=true&vCenter=true&random=false&width=800&lines=I'm+a+versatile+developer+passionate+about+crafting+elegant+solutions;Expertise+in+both+low-level+systems+and+modern+web+development;Background+in+Electronics%2C+Telecommunications%2C+and+Applied+Mathematics" alt="About Me" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00E7FF&center=true&vCenter=true&random=false&width=1000&lines=I'm+a+versatile+developer+passionate+about+crafting+elegant+solutions;Expertise+in+both+low-level+systems+and+modern+web+development;Background+in+Electronics%2C+Telecommunications%2C+and+Applied+Mathematics" alt="About Me" />
 </div>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="Bullseye" width="25" height="25" /> Core Competencies
+### 🎯 Core Competencies
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,php,react,dotnet,opengl&theme=dark" />
@@ -55,14 +49,9 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="25" height="25" /> GitHub Stats
 
 <div align="center">
-  <!-- Animated Stats Cards -->
   <img src="https://github-readme-stats.vercel.app/api?username=mohcine-otmane&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00e7ff&text_color=ffffff&icon_color=00b4d8" width="49%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohcine-otmane&theme=dark&hide_border=true&background=0d1117&stroke=00e7ff&ring=00b4d8&fire=00b4d8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00e7ff&sideLabels=00e7ff&dates=ffffff" width="49%" alt="GitHub Streak" />
-  
-  <!-- Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohcine-otmane&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00e7ff&text_color=ffffff" width="49%" alt="Top Languages" />
-  
-  <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohcine-otmane&bg_color=0d1117&color=00e7ff&line=00b4d8&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
@@ -75,20 +64,16 @@
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/-Email-00B4D8?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
   </a>
-  
-  <!-- Social Stats with neon theme -->
   <p>
     <img src="https://img.shields.io/github/followers/mohcine-otmane?label=Followers&style=for-the-badge&color=00E7FF" alt="GitHub Followers" />
     <img src="https://img.shields.io/github/stars/mohcine-otmane?label=Stars&style=for-the-badge&color=00B4D8" alt="GitHub Stars" />
   </p>
 </div>
 
-<!-- Personal Quote with neon effect -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&pause=1000&color=00E7FF&center=true&vCenter=true&random=false&width=600&lines=Precision+in+code%2C+excellence+in+performance.;DICTVM+MEVM+PACTVM" alt="Personal Quote" />
 </div>
 
-<!-- Animated Footer with cyberpunk theme -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E7FF,100:9D00FF&height=120&section=footer&text=Let's%20Build%20The%20Future%20Together&fontSize=30&animation=fadeIn&fontColor=fff&desc=Thanks%20for%20visiting!&descSize=20&descAlignY=80" alt="Footer" />
 </div>
