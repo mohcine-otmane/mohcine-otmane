@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi there, I'm Mohcine!
+# Hi there, I'm Mohcine!
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -14,13 +14,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=200&section=header&text=Welcome%20to%20my%20Universe&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Where%20Code%20Meets%20Innovation&descAlignY=55&descAlign=50&fontColor=fff" alt="Header Banner" />
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> About Me
+## About Me
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00E7FF&center=true&vCenter=true&random=false&width=1000&lines=I'm+a+versatile+developer+passionate+about+crafting+elegant+solutions;Expertise+in+both+low-level+systems+and+modern+web+development;Background+in+Electronics%2C+Telecommunications%2C+and+Applied+Mathematics" alt="About Me" />
 </div>
 
-### 🎯 Core Competencies
+### Core Competencies
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,php,react,dotnet,opengl&theme=dark&perline=4" />
@@ -32,7 +32,7 @@
   </p>
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> Tech Stack
+## Tech Stack
 
 <div align="center">
   <h3>Languages & Frameworks</h3>
@@ -56,7 +56,7 @@
   </p>
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="25" height="25" /> GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohcine-otmane&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00e7ff&text_color=ffffff&icon_color=00b4d8&ring_color=00e7ff" width="49%" alt="GitHub Stats" />
@@ -66,7 +66,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohcine-otmane&bg_color=0d1117&color=00e7ff&line=00b4d8&point=ffffff&area=true&hide_border=true&radius=16" width="98%" alt="Activity Graph" />
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Connect With Me
+## Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mohcine-otmane-13178a199/">
