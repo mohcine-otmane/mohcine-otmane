@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00E7FF&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Systems+Programmer;Problem+Solver;Graphics+Engineer;Code+Architect" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00E7FF&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Systems+Programmer;Problem+Solver;Graphics+Engineer;Code+Architect;Tech+Innovator" alt="Typing SVG" />
   </a>
   
   <img src="https://github-profile-trophy.vercel.app/?username=mohcine-otmane&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" width="100%" alt="Trophy" />
@@ -37,22 +37,46 @@
 <div align="center">
   <h3>Languages & Frameworks</h3>
   <p>
-    <img src="https://img.shields.io/badge/-C-00E7FF?style=for-the-badge&logo=c&logoColor=black&labelColor=00E7FF" alt="C" />
-    <img src="https://img.shields.io/badge/-C++-00B4D8?style=for-the-badge&logo=c%2B%2B&logoColor=black&labelColor=00B4D8" alt="C++" />
-    <img src="https://img.shields.io/badge/-C%23-0096C7?style=for-the-badge&logo=c-sharp&logoColor=black&labelColor=0096C7" alt="C#" />
-    <img src="https://img.shields.io/badge/-Python-0077B6?style=for-the-badge&logo=python&logoColor=black&labelColor=0077B6" alt="Python" />
-    <img src="https://img.shields.io/badge/-PHP-0077B6?style=for-the-badge&logo=php&logoColor=black&labelColor=0077B6" alt="PHP" />
-    <img src="https://img.shields.io/badge/-FreeBasic-023E8A?style=for-the-badge&logo=basic&logoColor=white&labelColor=023E8A" alt="FreeBasic" />
+    <a href="https://www.cprogramming.com/">
+      <img src="https://img.shields.io/badge/-C-00E7FF?style=for-the-badge&logo=c&logoColor=black&labelColor=00E7FF" alt="C" />
+    </a>
+    <a href="https://isocpp.org/">
+      <img src="https://img.shields.io/badge/-C++-00B4D8?style=for-the-badge&logo=c%2B%2B&logoColor=black&labelColor=00B4D8" alt="C++" />
+    </a>
+    <a href="https://dotnet.microsoft.com/">
+      <img src="https://img.shields.io/badge/-C%23-0096C7?style=for-the-badge&logo=c-sharp&logoColor=black&labelColor=0096C7" alt="C#" />
+    </a>
+    <a href="https://www.python.org/">
+      <img src="https://img.shields.io/badge/-Python-0077B6?style=for-the-badge&logo=python&logoColor=black&labelColor=0077B6" alt="Python" />
+    </a>
+    <a href="https://www.php.net/">
+      <img src="https://img.shields.io/badge/-PHP-0077B6?style=for-the-badge&logo=php&logoColor=black&labelColor=0077B6" alt="PHP" />
+    </a>
+    <a href="https://www.freebasic.net/">
+      <img src="https://img.shields.io/badge/-FreeBasic-023E8A?style=for-the-badge&logo=basic&logoColor=white&labelColor=023E8A" alt="FreeBasic" />
+    </a>
   </p>
 
   <h3>Tools & Technologies</h3>
   <p>
-    <img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white&labelColor=512BD4" alt=".NET" />
-    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/-SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=black&labelColor=8CC445" alt="SFML" />
-    <img src="https://img.shields.io/badge/-OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white&labelColor=5586A4" alt="OpenGL" />
-    <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032" alt="Git" />
-    <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=007ACC" alt="VS Code" />
+    <a href="https://dotnet.microsoft.com/">
+      <img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white&labelColor=512BD4" alt=".NET" />
+    </a>
+    <a href="https://reactjs.org/">
+      <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB" alt="React" />
+    </a>
+    <a href="https://www.sfml-dev.org/">
+      <img src="https://img.shields.io/badge/-SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=black&labelColor=8CC445" alt="SFML" />
+    </a>
+    <a href="https://www.opengl.org/">
+      <img src="https://img.shields.io/badge/-OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white&labelColor=5586A4" alt="OpenGL" />
+    </a>
+    <a href="https://git-scm.com/">
+      <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032" alt="Git" />
+    </a>
+    <a href="https://code.visualstudio.com/">
+      <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=007ACC" alt="VS Code" />
+    </a>
   </p>
 </div>
 
