@@ -3,6 +3,9 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Systems+Programmer;Problem+Solver" alt="Typing SVG" />
   
+  <!-- Generated Programming Image -->
+  <img src="https://api.imagepig.io/v1/generate?prompt=modern%20programming%20setup%20with%20code%20on%20screen%20and%20coffee&api_key=b6ec1fac-f372-4d49-b029-b5f8d4e02141" alt="Programming Setup" width="600" />
+  
   <!-- Snake animation -->
   <img src="https://github.com/mohcine-otmane/mohcine-otmane/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
