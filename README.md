@@ -96,7 +96,7 @@
   <a href="https://www.linkedin.com/in/mohcine-otmane-13178a199/">
     <img src="https://img.shields.io/badge/-LinkedIn-00E7FF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=00E7FF" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:mohcine.otmane@outlook.com">
     <img src="https://img.shields.io/badge/-Email-00B4D8?style=for-the-badge&logo=gmail&logoColor=black&labelColor=00B4D8" alt="Email" />
   </a>
   <p>
