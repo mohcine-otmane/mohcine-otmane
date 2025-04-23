@@ -1,5 +1,3 @@
-# 👋 Hello, I'm **Mohcine**
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Systems+Programmer;Graphics+Developer;Technology+Enthusiast" alt="Typing SVG" />
 </div>
