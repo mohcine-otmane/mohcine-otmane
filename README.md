@@ -6,7 +6,7 @@
 
 ## 🧩 Profile
 
-As a **full-stack software engineer** with a multidisciplinary background in **Electronics**, **Telecommunications**, and **Applied Mathematics**, I bridge the gap between **low-level systems engineering** and **user-centered design**.
+As a **full-stack software developer** with a multidisciplinary background in **Electronics**, **Telecommunications**, and **Applied Mathematics**, I bridge the gap between **low-level systems engineering** and **user-centered design**.
 
 I enjoy building high-performance applications — from real-time graphics engines to scalable web platforms — with a focus on code quality, clarity, and impactful user experiences.
 
@@ -14,7 +14,7 @@ I enjoy building high-performance applications — from real-time graphics engin
 
 ## 💼 Core Competencies
 
-- **Systems Programming** – C, C++, C#, memory management, concurrency  
+- **Systems Programming** – C, C++, C#, Java, memory management, concurrency  
 - **Full-Stack Web Development** – React, .NET, PHP, RESTful APIs  
 - **Graphics Programming** – OpenGL, SFML, shader development  
 - **Software Architecture** – Modular design, performance tuning, scalability  
@@ -30,7 +30,7 @@ I enjoy building high-performance applications — from real-time graphics engin
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![FreeBASIC](https://img.shields.io/badge/FreeBASIC-023E8A?style=for-the-badge&logo=basic&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Frameworks & Tools  
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
