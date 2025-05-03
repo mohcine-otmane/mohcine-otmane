@@ -90,6 +90,4 @@ I enjoy building high-performance applications — from real-time graphics engin
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=00E7FF&center=true&vCenter=true&width=600&lines=Precision+in+Code.+Excellence+in+Execution.;DICTVM+MEVM+PACTVM" alt="Quote Typing" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=120&section=footer&text=Let's%20Build%20the%20Future%20Together&fontSize=24&fontColor=ffffff&desc=Thank%20you%20for%20visiting!&descSize=16&descAlignY=75" />
-</div>
+
