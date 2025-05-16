@@ -6,63 +6,62 @@
 
 ## 🧩 Profile
 
-As a **full-stack software developer** with a multidisciplinary background in **Electronics**, **Telecommunications**, and **Applied Mathematics**, I bridge the gap between **low-level systems engineering** and **user-centered design**.
+I'm a **Full-Stack Developer** with a multidisciplinary background in **Electronics**, **Telecommunications**, and **Applied Mathematics** — seamlessly blending **low-level systems programming** with **intuitive user-centered design**.
 
-I enjoy building high-performance applications — from real-time graphics engines to scalable web platforms — with a focus on code quality, clarity, and impactful user experiences.
+I build **high-performance, scalable applications** ranging from **graphics engines** to **cloud-ready platforms**, always focusing on **clean code**, **performance**, and **meaningful user experiences**.
 
 ---
 
 ## 💼 Core Competencies
 
-- **Systems Programming** – C, C++, C#, Java, memory management, concurrency  
-- **Full-Stack Web Development** – React, .NET, PHP, RESTful APIs  
-- **Graphics Programming** – OpenGL, SFML, shader development  
-- **Software Architecture** – Modular design, performance tuning, scalability  
-- **Tooling & DevOps** – Git, VS Code, CI/CD integration
+- 🔧 **Systems Programming** – C, C++, C#, Java, memory & process management, multithreading  
+- 🌐 **Web Development** – React, .NET, PHP, REST APIs, MySQL  
+- 🎮 **Graphics & Game Dev** – OpenGL, SFML, GLSL shaders, real-time rendering  
+- 🏗️ **Architecture & Design** – Modular codebases, scalable architecture, performance optimization  
+- ⚙️ **Tooling & DevOps** – Git, Docker, CI/CD pipelines, VS Code, Linux
 
 ---
 
-## 🛠️ Technologies I Use
+## 🛠️ Tech Stack
 
-### Languages  
+### 🚀 Languages  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-### Frameworks & Tools
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+### 🧰 Frameworks & Tools  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 ![SFML](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 📈 GitHub Overview
+## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohcine-otmane&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohcine-otmane&theme=radical&hide_border=true" width="48%" />
-  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohcine-otmane&layout=compact&theme=radical&hide_border=true&langs_count=6" width="48%" />
 </div>
 
 ---
 
-## 🏆 Notable Achievements
+## 🏆 Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mohcine-otmane&theme=radical&no-frame=true&row=1&column=6" />
@@ -70,7 +69,7 @@ I enjoy building high-performance applications — from real-time graphics engin
 
 ---
 
-## 📊 Contribution Graph
+## 📊 Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohcine-otmane&bg_color=0d1117&color=00e7ff&line=00b4d8&point=ffffff&area=true&hide_border=true&radius=16" width="98%" />
@@ -78,7 +77,7 @@ I enjoy building high-performance applications — from real-time graphics engin
 
 ---
 
-## 📬 Contact
+## 📬 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mohcine-otmane-13178a199/">
@@ -96,5 +95,3 @@ I enjoy building high-performance applications — from real-time graphics engin
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=00E7FF&center=true&vCenter=true&width=600&lines=Precision+in+Code.+Excellence+in+Execution.;DICTVM+MEVM+PACTVM" alt="Quote Typing" />
 </div>
-
-
