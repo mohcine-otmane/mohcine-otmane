@@ -2,29 +2,34 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Systems+Programmer;Graphics+Developer;Technology+Enthusiast" alt="Typing SVG" />
 </div>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:00E7FF,100:000000&text=Welcome%20to%20My%20GitHub!&fontAlign=40&fontColor=ffffff&fontSize=30&desc=Precision+in+Code,+Excellence+in+Execution.&descAlign=60&descSize=16" />
+</p>
+
 ---
 
-## 🧩 Profile
+## 🧩 About Me
 
-I'm a **Full-Stack Developer** with a multidisciplinary background in **Electronics**, **Telecommunications**, and **Applied Mathematics** — seamlessly blending **low-level systems programming** with **intuitive user-centered design**.
+I'm a **Full-Stack Software Developer** with a background in **Electronics**, **Telecommunications**, and **Applied Mathematics** — merging **low-level systems knowledge** with **high-level user experiences**.
 
-I build **high-performance, scalable applications** ranging from **graphics engines** to **cloud-ready platforms**, always focusing on **clean code**, **performance**, and **meaningful user experiences**.
+> I build everything from graphics engines and real-time apps to scalable, production-ready web platforms.  
+> My focus: **clarity, performance, maintainability, and elegance**.
 
 ---
 
 ## 💼 Core Competencies
 
-- 🔧 **Systems Programming** – C, C++, C#, Java, memory & process management, multithreading  
-- 🌐 **Web Development** – React, .NET, PHP, REST APIs, MySQL  
-- 🎮 **Graphics & Game Dev** – OpenGL, SFML, GLSL shaders, real-time rendering  
-- 🏗️ **Architecture & Design** – Modular codebases, scalable architecture, performance optimization  
-- ⚙️ **Tooling & DevOps** – Git, Docker, CI/CD pipelines, VS Code, Linux
+- **🧠 Systems Programming:** C / C++ / C# / Java, memory optimization, multithreading  
+- **🌐 Full-Stack Web:** React, .NET, PHP, RESTful APIs  
+- **🎮 Graphics Development:** OpenGL, SFML, custom shaders  
+- **🏗️ Software Architecture:** Clean code, modular systems, scalability  
+- **⚙️ DevOps & Tooling:** Git, CI/CD, VS Code, Linux environments
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🚀 Languages  
+### 💻 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -36,32 +41,22 @@ I build **high-performance, scalable applications** ranging from **graphics engi
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-### 🧰 Frameworks & Tools  
+### 🧰 Tools & Frameworks
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 ![SFML](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=black)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohcine-otmane&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohcine-otmane&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohcine-otmane&layout=compact&theme=radical&hide_border=true&langs_count=6" width="48%" />
-</div>
-
----
-
-## 🏆 Trophies
+## 🏆 Notable Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mohcine-otmane&theme=radical&no-frame=true&row=1&column=6" />
@@ -69,7 +64,18 @@ I build **high-performance, scalable applications** ranging from **graphics engi
 
 ---
 
-## 📊 Contribution Activity
+## 📈 GitHub Insights
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohcine-otmane&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohcine-otmane&theme=radical&hide_border=true" width="48%" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohcine-otmane&layout=compact&theme=radical&hide_border=true&langs_count=6" width="48%" />
+</div>
+
+---
+
+## 📊 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohcine-otmane&bg_color=0d1117&color=00e7ff&line=00b4d8&point=ffffff&area=true&hide_border=true&radius=16" width="98%" />
@@ -77,7 +83,7 @@ I build **high-performance, scalable applications** ranging from **graphics engi
 
 ---
 
-## 📬 Connect With Me
+## 📬 Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mohcine-otmane-13178a199/">
